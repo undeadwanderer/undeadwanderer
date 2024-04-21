@@ -1,4 +1,4 @@
-###👋 Hello there!
+### 👋 Hello there!
 
 I'm not much of a coder but I've been working on some amateur-level stuff for personal use. I do want to publish it all in case anyone's got the same needs as me but I'm not too confident atm, so the only public repos here so far are forks.
 
