@@ -10,7 +10,7 @@ Have dabbled in the following languages:
 - Modified a program written in OpenTuring a decade ago, haven't used it or looked at the code since.
 - Originally learned coding on Pascal, Basic and C/C++ but I've got no memory of those now.
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=undead_wanderer)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=undead_wanderer)](https://www.last.fm/user/undead_wanderer)
 
 <!--
 **undeadwanderer/undeadwanderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
