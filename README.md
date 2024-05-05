@@ -11,6 +11,7 @@ Have dabbled in the following languages:
 - Originally learned coding on Pascal and C/C++ but I've got no memory of those now.
 
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=undead_wanderer)](https://www.last.fm/user/undead_wanderer)
+
 [Avatar by Kavaeka](https://www.deviantart.com/kavaeka/art/COMMISSION-Lyra-Heartstrings-375711655). [Last.fm thing by JeffreyCA](https://github.com/JeffreyCA/lastfm-recently-played-readme).
 
 <!--
