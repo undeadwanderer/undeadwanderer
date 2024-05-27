@@ -6,7 +6,7 @@ Mostly working on stuff in occasional bursts of inspiration.
 
 Have dabbled in the following languages:
 - Most recently, tried my hand in Lua.
-- Worked on some Rainmeter skins during last year, mostly forks and edits of existing widgets and libraries.
+- Worked on some Rainmeter skins since 2023, mostly forks and edits of existing widgets and libraries.
 - Been writing userscripts since 2018 but I have much to learn yet.
 - Modified a program written in OpenTuring a decade ago, haven't used it or looked at the code since.
 - Originally learned coding on Pascal and C/C++, and studied assembler a bit, but I've got no memory of those now.
